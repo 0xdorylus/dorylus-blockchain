@@ -1,3 +1,3 @@
 # READEME
 
-Some tests on 0g.ai.
+Some tests on https://0g.ai
